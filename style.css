@@ -70,9 +70,7 @@ body{
 }
 #foto{
 
-    display: block;
-    margin-top: auto;
-    margin-left: 600px;
+    text-align: center;
 
 }
 
